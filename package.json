@@ -1,0 +1,16 @@
+{
+  "name": "assig_7",
+  "version": "1.0.0",
+  "description": "A professional README generator using Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "asdf",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
