@@ -60,7 +60,7 @@ function generateProfileHTML() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${questions[0].title}'s Portfolio</title>
+    <title>Rafiu Lawal's Portfolio</title>
 </head>
 <body>
 
@@ -70,7 +70,7 @@ function generateProfileHTML() {
 
     <section class="about-me">
         <h2>About Me</h2>
-        <p>Hello! I'm Rafiu, a 38-year-old IT consultant and DevOp Engineer based in Minneapolis, MN. With over 6 years of experience in the industry, I’m passionate about leveraging technology to solve complex problems and improve business processes.</p>
+        <p>Hello! I'm Rafiu, a 38-year-old Senior IT consultant and DevOp Engineer based in Minneapolis, MN. With over 6 years of experience in the industry, I’m passionate about leveraging technology to solve complex problems and improve business processes.</p>
     </section>
 
     <section class="skills">
@@ -132,7 +132,7 @@ function init() {
     const markdownContent = generateMarkdown(answers);
 
     // Write the README.md file
-    fs.writeFile('README.md', markdownContent, (err) =>
+    fs.writeFile('SampleREADME.md', markdownContent, (err) =>
       err ? console.error(err) : console.log('README.md created successfully!')
     );
 
