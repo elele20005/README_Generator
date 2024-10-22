@@ -15,7 +15,13 @@ My personal portfolio website is crafted to highlight my projects, skills, and e
 - [Questions](#questions)
 
 ## Installation
-Clone the repository using the SSH: git clone git@github.com:elele20005/README_Generator.git, Navigate to the project folder: cd README_Generator Open index.html on your browser to view the portfolio locally.
+Clone the repository using the SSH:
+
+git clone git@github.com:elele20005/README_Generator.git
+
+Navigate to the project folder: 
+
+cd README_Generator Open index.html on your browser to view the portfolio locally.
 
 ## Usage
 The portfolio is meant to provide a personal overview of my work, including project highlights, technical skills, and an "About Me" section. It can be shared with potential employers, collaborators, or as an online resume.
