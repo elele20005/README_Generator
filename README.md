@@ -37,6 +37,6 @@ No formal tests are available for this project, but users can verify functionali
 
 ## Questions
 For more questions, please reach out to:
-- GitHub: [https://github.com/elele20005]
+- GitHub: https://github.com/elele20005
 - Email: ralphconsultant1@gmail.com
 - Linkedin: https://www.linkedin.com/in/rafiu-lawal-9b5679121/
