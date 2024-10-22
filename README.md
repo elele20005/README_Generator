@@ -16,6 +16,7 @@ My personal portfolio website is crafted to highlight my projects, skills, and e
 
 ## Installation
 Clone the repository using the SSH:
+
 git clone git@github.com:elele20005/README_Generator.git
 
 Navigate to the project folder: 
