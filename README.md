@@ -28,6 +28,7 @@ The portfolio is meant to provide a personal overview of my work, including proj
 
 ## License
 This project is licensed under the MIT license. See the LICENSE file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 This portfolio is a personal project, and contributions are not required.  Suggestions for improvements are always welcome. Feel free to reach out via email.
