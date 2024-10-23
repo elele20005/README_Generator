@@ -1,7 +1,7 @@
 
 # README_Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
 
 ## Description
 My personal portfolio website is crafted to highlight my projects, skills, and experience. It adopts a basic design, featuring neutral tones for a sleek and professional appearance. 
@@ -27,8 +27,9 @@ cd README_Generator Open index.html on your browser to view the portfolio locall
 The portfolio is meant to provide a personal overview of my work, including project highlights, technical skills, and an "About Me" section. It can be shared with potential employers, collaborators, or as an online resume.
 
 ## License
-This project is licensed under the MIT license. See the LICENSE file for details.
+This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
 
 ## Contributing
 This portfolio is a personal project, and contributions are not required.  Suggestions for improvements are always welcome. Feel free to reach out via email.
