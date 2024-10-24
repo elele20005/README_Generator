@@ -2,6 +2,7 @@
 # README_Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+https://opensource.org/licenses/Apache-2.0
 
 ## Description
 My personal portfolio website is crafted to highlight my projects, skills, and experience. It adopts a basic design, featuring neutral tones for a sleek and professional appearance. 
